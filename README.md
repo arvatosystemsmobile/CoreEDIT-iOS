@@ -1,1 +1,1 @@
-# coreedit
+# CoreEDIT
